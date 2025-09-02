@@ -14,8 +14,8 @@ Welcome to my GitHub profile! Here’s a little bit about me:
 - Tools: Git, VS Code, Docker
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:sultanabduselam1@gmail.com)
-- LinkedIn: [Your LinkedIn]([http://linkedin.com/in/abduselam-s-05126b330/])
+- Email: [sultanabduselam1@gmail.com](mailto:sultanabduselam1@gmail.com)
+- LinkedIn: [Your LinkedIn](http://linkedin.com/in/abduselam-s-05126b330/)
 
 ---
 
