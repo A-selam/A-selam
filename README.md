@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm A-selam!
 
-<!--
-**A-selam/A-selam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m passionate about software development and open source.
+- 🌱 Currently learning new technologies and frameworks.
+- 🛠️ I enjoy building applications, contributing to projects, and solving challenging problems.
+- 🤝 I love collaborating with fellow developers and sharing knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Technologies & Tools
+- Languages: JavaScript, Python, TypeScript, Go, Dart
+- Frameworks: React, Node.js, Gin (Go), Flutter
+- Tools: Git, VS Code, Docker
+
+## 📫 How to reach me
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
