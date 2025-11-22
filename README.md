@@ -2,12 +2,13 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9xemZmMmt3M2h4Zm9vc21haXYzYTZuZWJjaTF0eWo4bHJncGgwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+- 🎓 I'm a 5th year software engineering student.
 
 - 💻 I’m passionate about software development and open source.
   
 - 🌱 I’m currently learning Full-Stack Development
   
-- 🛠️ I enjoy building applications, and solving challenging problems.
+- 🛠️ I enjoy building applications and solving challenging problems.
   
 - 📫 How to reach me **sultanabduselam1@gmail.com**
 
