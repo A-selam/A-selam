@@ -21,14 +21,14 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,dart,cpp,java,go" /></br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,jest,express,prisma,flutter,tailwind" /></br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,mongodb,mysql,postgres" /></br>
   </a>
-  </p>
+  </p> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A-selam&show_icons=true&locale=en&layout=compact" alt="a-selam" /></p> -->
 
